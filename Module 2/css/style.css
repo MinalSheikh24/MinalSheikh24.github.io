@@ -4,7 +4,7 @@
     }
 
     body {
-        background-color: white;
+        background-color: black;
     }
 
     h1 {
@@ -79,7 +79,7 @@
     .content {
         padding: 5px;
         border: none;
-        background-color: gray;
+        background-color: white;
         font-family: Helvetica;
         color: black;
         margin: 3px ;
